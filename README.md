@@ -1,2 +1,2 @@
 # Task2_Nextjs
-Here is secon task of nextjs
+Here is second task of nextjs
